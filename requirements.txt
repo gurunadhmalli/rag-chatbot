@@ -1,0 +1,6 @@
+streamlit
+cohere
+faiss-cpu
+pdfplumber
+numpy
+
